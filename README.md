@@ -10,9 +10,9 @@ Per inserire i dati:
     1. LICENSE
     2. README.md
 6. troverete le seguenti cartelle:
-    7.     bruciatore
-    8.     gas
-    9.     gasolio
+    1. bruciatore
+    2. gas
+    3. gasolio
 
 ### Gasolio e gas
 Per ogni file riportare per ogni lettura, su una sola riga, le seguenti informazioni:
