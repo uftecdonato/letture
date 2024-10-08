@@ -14,4 +14,4 @@ I dati dono separati da virgola e nei singoli dati i decimali sono separati da u
 
 #### Inserimento dei dati
 Inserire idati come segue:
-data( fformatogg-mm-aaa),lettura (formato n.m)
+data (formato gg-mm-aaa),lettura (formato n.m)
