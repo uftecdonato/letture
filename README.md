@@ -7,8 +7,8 @@ Per inserire i dati:
 3. aprire la cartella _letture_;
 4. aprire l'icona _Code_
 5. oltre ai file:
-    1. LICENSE
-    2. README.md
+    6. LICENSE
+    7. README.md
 6. troverete le seguenti cartelle
 
 ### Gasolio e gas
