@@ -6,9 +6,10 @@ Per inserire i dati:
 2. nella _Home_ sciegliere l'icona _Repositories_:;
 3. aprire la cartella _letture_;
 4. aprire l'icona _Code_
-5. oltre ai file
+5. oltre ai file:
   1. LICENSE
   2. README.md
+6. troverete le seguenti cartelle
 
 ### Gasolio e gas
 Per ogni file riportare per ogni lettura, su una sola riga, le seguenti informazioni:
