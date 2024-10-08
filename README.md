@@ -11,3 +11,7 @@ I file _bar.csv_ e _tavernetta.csv_ contengono la seguente riga di intestazione,
 3. 08-10-2024,
 
 I dati dono separati da virgola e nei singoli dati i decimali sono separati da un punto es. _123.04_
+
+#### Inserimento dei dati
+Inserire idati come segue:
+data( fformatogg-mm-aaa),lettura (formato n.m)
