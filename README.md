@@ -1,17 +1,23 @@
-# Struttura dei dati
-Per le letture ci sono tre cartelle _bruciatore_, _gas_ e _gasolio_.
+# Note per la compilazione dei dati
 
-## Cartelle
-Nelle singole cartelle vi sono due file
+## Dati
+Per inserire i dati:
+1. Aprire l'applicazione _GitHub_;
+2. nella _Home_ sciegliere l'icona _Repositories_:;
+3. aprire la cartella _letture_;
+4. aprire l'icona _Code_
+5. oltre ai file
+  1. LICENSE
+  2. README.md
 
-### Bruciatore
-I file _bar.csv_ e _tavernetta.csv_ contengono la seguente riga di intestazione, la prima e le righe dati:
-1. data,1a,1b,1c,1e
-2. 21-08-2024,0.0,0.0,0.0,0.0
-3. 08-10-2024,
+### Gasolio e gas
+Per ogni file riportare per ogni lettura, su una sola riga, le seguenti informazioni:
+1. data nel formato _gg-mm-aaaa_ es: 08-10-2024
+2. lettura nel formato intero che deve essere separata dalla data da una _virgola_
 
-I dati dono separati da virgola e nei singoli dati i decimali sono separati da un punto es. _123.04_
+## Bruciatore
+Per ogni file riportare per ogni lettura, su una sola riga, le seguenti informazioni:
+1. data nel formato _gg-mm-aaaa_ es: 08-10-2024
+2. quattro letture che devono essere separata dalla data e tra di loro da una _virgola_
 
-#### Inserimento dei dati
-Inserire idati come segue:
-data (formato gg-mm-aaa),lettura (formato n.m)
+## Salvataggio dei file
