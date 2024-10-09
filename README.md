@@ -19,7 +19,7 @@ Per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informa
 1. data nel formato _gg-mm-aaaa_ es: _08-10-2024y
 2. lettura nel formato intero che deve essere separata dalla data da una _virgola_
 
-## Bruciatore
+### Bruciatore
 Per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
 1. data nel formato _gg-mm-aaaa_ es: _08-10-2024_
 2. quattro letture che devono essere separata dalla data e tra di loro da una _virgola_
