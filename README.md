@@ -29,4 +29,4 @@ Dopo avere inserito i dati, in ogni file, per salvare cliccare sul pulsante in b
 
 
 
-<img src="servizio/immagini/Screenshot_20241009-132329_GitHub.jpg" width="30%">
+<img src="servizio/immagini/Screenshot_20241009-132329_GitHub.jpg" width="40%">
