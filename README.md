@@ -6,7 +6,7 @@ Per inserire i dati:
 2. nella _Home_ sciegliere l'icona _Repositories_:;
 3. aprire la cartella _letture_;
 4. cliccare su _CHANGE_ in corrispondenza di _Current branch - main_
-5. di _Default_ comparirà _main_: scegliere quello sottostante cche riporta _lettura-aaaa-mm-gg_
+5. di _Default_ comparirà _main_: scegliere quello sottostante che riporta _lettura-aaaa-mm-gg_
 6. aprire l'icona _Code_
 7. torverete le seguenti cartelle:
     1. _bruciatore_
@@ -18,7 +18,7 @@ Per inserire i dati:
 
 ### Gas e gasolio
 Nelle cartelle _gas_ e _gasolio_, per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
-1. data nel formato _gg-mm-aaaa_ es: _08-10-2024y
+1. data nel formato _gg-mm-aaaa_ es: _08-10-2024_
 2. lettura nel formato intero che deve essere separata dalla data da una _virgola_
 
 ### Bruciatore
