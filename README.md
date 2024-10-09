@@ -29,4 +29,4 @@ Dopo avere inserito i dati, in ogni file, per salvare cliccare sul pulsante in b
 
 ![Commit Changes](servizio/immagini/Screenshot_20241009-132329_GitHub.jpg)
 
-<img src="servizio/immagini/Screenshot_20241009-132329_GitHub.jpg" width="50%">
+<img src="servizio/immagini/Screenshot_20241009-132329_GitHub.jpg" width="10%">
