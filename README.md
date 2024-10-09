@@ -27,6 +27,6 @@ Nella cartella _bruciatore_, per ogni file riportare, per ogni lettura, su una s
 ## Salvataggio dei file
 Dopo avere inserito i dati, in ogni file, per salvare cliccare sul pulsante in basso di colore verde con la scritta _Commit changes_, accettare i titolo che propone e, posizionandosi sulla riga sottostante, inserire il nome di chi effettua la lettura.
 
-<--! ![Commit Changes](servizio/immagini/Screenshot_20241009-132329_GitHub.jpg) -->
 
-<img src="servizio/immagini/Screenshot_20241009-132329_GitHub.jpg" width="300%">
+
+<img src="servizio/immagini/Screenshot_20241009-132329_GitHub.jpg" width="30%">
