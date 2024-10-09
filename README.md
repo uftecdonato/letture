@@ -5,12 +5,14 @@ Per inserire i dati:
 1. Aprire l'applicazione _GitHub_;
 2. nella _Home_ sciegliere l'icona _Repositories_:;
 3. aprire la cartella _letture_;
-4. aprire l'icona _Code_
-5. torverete le seguenti cartelle:
+4. cliccare su _CHANGE_ in corrispondenza di _Current branch - main_
+5. di _Default_ comparirà _main_: scegliere quello sottostante cche riporta _lettura-aaaa-mm-gg_
+6. aprire l'icona _Code_
+7. torverete le seguenti cartelle:
     1. _bruciatore_
     2. _gas_
     3. _gasolio_
-6. e i seguenti file:
+8. e i seguenti file:
     1. _LICENSE_
     2. _README.md_
 
@@ -25,7 +27,7 @@ Nella cartella _bruciatore_, per ogni file riportare, per ogni lettura, su una s
 2. quattro letture che devono essere separata dalla data e tra di loro da una _virgola_
 
 ## Salvataggio dei file
-Dopo avere inserito i dati, in ogni file, per salvare cliccare sul pulsante in basso di colore verde con la scritta _Commit changes_, accettare i titolo che propone e, posizionandosi sulla riga sottostante, inserire il nome di chi effettua la lettura.
+Dopo avere inserito i dati, per ogni file salvare cliccando sul pulsante in basso di colore verde con la scritta _Commit changes_, accettare i titolo che propone e, posizionandosi sulla riga sottostante, inserire il nome di chi effettua la lettura.
 
 
 
