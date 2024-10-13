@@ -3,7 +3,7 @@
 ## Dati
 Per inserire i dati:
 1. Aprire l'applicazione _GitHub_;
-2. nella _Home_ sciegliere l'icona _Repositories_:;
+2. nella _Home_ sciegliere l'icona _Repositories_;
 3. aprire la cartella _letture_;
 4. cliccare su _CHANGE_ in corrispondenza di _Current branch - main_
 5. di _Default_ comparirà _main_: scegliere quello sottostante che riporta _lettura-aaaa-mm-gg_
