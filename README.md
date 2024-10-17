@@ -18,8 +18,8 @@ Per inserire i dati:
 
 ### Gas e gasolio
 Nelle cartelle _gas_ e _gasolio_, per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
-1. data nel formato _gg-mm-aaaa_ es: _08-10-2024_
-2. lettura nel formato intero che deve essere separata dalla data da una _virgola_ es: _08-10-2024,65_
+1. data nel formato _gg-mm-aaaa_ es: _08-10-2024_;
+2. lettura nel formato intero che deve essere separata dalla data da una _virgola_ es: _08-10-2024,65_;
 
 ### Bruciatore
 Nella cartella _bruciatore_, per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
