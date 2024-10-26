@@ -18,7 +18,7 @@ Per inserire i dati:
 
 ### Gasolio
 Nella cartella _gasolio_, riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
-1. iniziale letturista _i_ es: _f_
+1. iniziale letturista s: _f_
 2. data nel formato _ggmmaaaa_ es: _26102024_
 3. lettura formata da tre cifre _lll_ es: _034_
 4. il tipo di lettura es: _l_ per lettura livello e _r_ per rifornimento;
