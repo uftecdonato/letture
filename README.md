@@ -16,10 +16,14 @@ Per inserire i dati:
     1. _LICENSE_
     2. _README.md_
 
-### Gas e gasolio
-Nelle cartelle _gas_ e _gasolio_, per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
-1. data nel formato _gg-mm-aaaa_ es: _08-10-2024_;
-2. lettura nel formato intero che deve essere separata dalla data da una _virgola_ es: _08-10-2024,65_;
+### Gasolio
+Nella cartella _gasolio_, riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
+1. iniziale letturista _i_ es: _f_
+2. data nel formato _ggmmaaaa_ es: _26102024_
+3. lettura formata da tre cifre _lll_ es: _034_
+4. il tipo di lettura es: _l_ per lettura livello e _r_ per rifornimento;
+5. riscaldamento: _a_ acceso, _s_ spento.
+6. esempio di lettura completo: _f26102024034la_.
 
 ### Bruciatore
 Nella cartella _bruciatore_, per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
