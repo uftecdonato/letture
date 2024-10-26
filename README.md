@@ -18,12 +18,12 @@ Per inserire i dati:
 
 ### Gasolio
 Nella cartella _gasolio_, riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
-1. iniziale letturista s: _f_
+1. iniziale letturista es: _f_
 2. data nel formato _ggmmaaaa_ es: _26102024_
 3. lettura formata da tre cifre _lll_ es: _034_
 4. il tipo di lettura es: _l_ per lettura livello e _r_ per rifornimento;
 5. riscaldamento: _a_ acceso, _s_ spento.
-6. esempio di lettura completo: _f26102024034la_.
+6. esempio di lettura completo _f26102024034la_: lettura livello effettuata il 26/10/2024 da Fulvio, altezza di 34 cm con riscaldamento acceso.
 
 ### Bruciatore
 Nella cartella _bruciatore_, per ogni file riportare, per ogni lettura, su una sola riga, le seguenti informazioni:
