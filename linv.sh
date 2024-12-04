@@ -10,7 +10,6 @@ NC='\033[0m' # Nessun colore
 
 # versioning
 my_path=$(pwd)
-echo $my_path
 riga_nome=1
 riga_data=2
 riga_vers=3
