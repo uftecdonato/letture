@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-data (raw),lettura (raw),tipo,litri rif,riscaldamento
-=======
 data (raw),lettura (raw),tipo,litri rif,riscaldamento
 01/10/2024,78,L,,A
 08/10/2024,74,L,,A
@@ -14,4 +11,3 @@ data (raw),lettura (raw),tipo,litri rif,riscaldamento
 03/12/2024,40,L,,A
 10/12/2024,32,L,,A
 12/12/2024,30,L,,A
->>>>>>> e9f9e96e5f2bc08645483d694ea960f3db387b1f
